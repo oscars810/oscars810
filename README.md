@@ -21,5 +21,5 @@ being able to add value and enhance my learning.
 ![Stack](https://user-images.githubusercontent.com/53796555/202622731-29f13379-692a-4b7a-9704-9de6e328e59b.png)
 --->
 <center>
-  <img src="https://user-images.githubusercontent.com/53796555/202622731-29f13379-692a-4b7a-9704-9de6e328e59b.png" alt="drawing" width="700"/>
+  <img src="https://user-images.githubusercontent.com/53796555/202622731-29f13379-692a-4b7a-9704-9de6e328e59b.png" alt="drawing" width="600"/>
 </center>
